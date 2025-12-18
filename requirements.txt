@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers==4.44.2
+lancedb
+sentence-transformers
+opencv-python
+pillow

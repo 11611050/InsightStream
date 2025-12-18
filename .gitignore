@@ -1,0 +1,11 @@
+# Ignore the environment
+venv/
+__pycache__/
+
+# Ignore the Database and Memories
+data/
+captured_frames/
+
+# Ignore local AI cache if any
+*.safetensors
+*.bin
